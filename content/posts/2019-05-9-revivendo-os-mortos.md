@@ -1,6 +1,6 @@
 ---
 title: Revivendo os mortos
-date: "2019-05-9T22:40:32.169Z"
+date: "2019-05-09T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "revivendo-os-mortos"
