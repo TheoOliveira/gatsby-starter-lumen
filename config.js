@@ -3,41 +3,38 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Blog do Théo Oliveira',
+  subtitle: 'Frontend | AI e estudando enquanto fala',
+  copyright: '© Alguns direitos reservados.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Artigos',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Sobre',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
+    
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Théo Oliveira',
+    photo: '/photo.png',
+    bio: 'Frontend | Chatbots e AI | Estudando JS, Python',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'theophilo.oliveira@gmail.com',
+      facebook: '',
+      telegram: 'theo_oliver',
+      twitter: 'TheoOliveira',
+      github: 'TheoOliveira',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'theooliveira',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
