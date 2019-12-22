@@ -12,7 +12,7 @@ tags:
   - "log"
   - "carreira"
 description: "Estou na retomada dos estudos em html, css e javascript. Apesar disso estou tentando uma vaga nessa area."
-socialImage: "/media/image-2.jpg"
+socialImage: '/public/media/jukan-tateisi-bJhT_8nbUA0-unsplash.jpg'
 ---
 
 Estou na retomada dos estudos em html, css e javascript. Apesar disso estou tentando uma vaga nessa area. Acho que tenho condições de trabalhar nisso mesmo não tendo tanto conhecimento. [Udemy](www.udemy.com) e [Curso em Video](https://www.youtube.com/user/cursosemvideo) ajudam bastante neste quesito. Só espero conseguir logo porque preciso disso o quanto antes. 

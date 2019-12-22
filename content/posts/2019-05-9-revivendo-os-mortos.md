@@ -13,7 +13,7 @@ tags:
   - "TI"
 
 description: "Dado as condições atuais e a falta de tempo. resolvi buscar por postar aqui meu blog pessoal tanto sobre minha jornada de aprender mais na area de programação"
-socialImage: "/media/image-3.jpg"
+socialImage: "/public/media/chris-buckwald-RXWgx93tz8w-unsplash.jpg"
 ---
 
 Dado as condições atuais e a falta de tempo. resolvi buscar por postar aqui meu blog pessoal tanto sobre minha jornada de aprender mais na area de programação e web dev quanto das coisas que gosto como ler e escrever.

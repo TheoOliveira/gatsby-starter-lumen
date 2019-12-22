@@ -11,6 +11,6 @@ tags:
 - "log"
 - "carreira"
 description: "Demorei para desencantar no git com medo que fosse mais dificil mas a delicia e poder usar o terminal"
-socialImage: "/media/42-line-bible.jpg"
+socialImage: "/public/media/luke-chesser-LG8ToawE8WQ-unsplash.jpg"
 ---
 Demorei para desencantar no git com medo que fosse mais dificil mas a delicia e poder usar o terminal e ser rapido para atualizar tudo sem se preocupar com F5 do browser etc. O sarro que a tutoriais de fora do github sao melhores do que do site oficial.

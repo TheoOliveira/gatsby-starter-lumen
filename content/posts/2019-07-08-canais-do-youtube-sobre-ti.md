@@ -12,7 +12,7 @@ tags:
   - "linux"
   - "ti"
 description: "Gosto muito de usar o youtube para estudar. No post anterior falei sobre o curso em video mas tem diversos canais para aprendizado, dicas e mesmo notícias na area de TI."
-socialImage: "/media/image-0.jpg"
+socialImage: "/public/media/kon-karampelas-peLs78VbU50-unsplash.jpg"
 ---
 
 Gosto muito de usar o youtube para estudar. No post anterior falei sobre o curso em video mas tem diversos canais para aprendizado, dicas e mesmo notícias na area de TI. Vou listar alguns que acompanho e que uso para estudo pessoal. Grande parte em inglês mas não deixam de ser uteis para aprender:
