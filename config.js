@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog do Théo Oliveira',
-  subtitle: 'Frontend | AI e estudando enquanto fala',
+  subtitle: 'Frontend | Chatbot | AI e estudando pakas',
   copyright: '© Alguns direitos reservados.',
   disqusShortname: '',
   postsPerPage: 4,
