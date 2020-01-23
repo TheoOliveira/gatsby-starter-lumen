@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog do Théo Oliveira',
-  subtitle: 'Frontend | Chatbot | AI e estudando pakas',
+  subtitle: 'Frontend | Node | e afins, estudando pakas',
   copyright: '© Alguns direitos reservados.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -19,12 +19,12 @@ module.exports = {
       label: 'Sobre',
       path: '/pages/about'
     }
-    
+
   ],
   author: {
     name: 'Théo Oliveira',
     photo: '/photo.png',
-    bio: 'Frontend | Chatbots e AI | Estudando JS, Python',
+    bio: 'Frontend | autodidata feroz',
     contacts: {
       email: 'theophilo.oliveira@gmail.com',
       facebook: '',
