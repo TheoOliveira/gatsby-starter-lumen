@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://theooliveira.tech',
   pathPrefix: '/',
   title: 'Blog do Théo Oliveira',
-  subtitle: 'Frontend | Node | e afins, estudando pakas',
-  copyright: '© Alguns direitos reservados.',
+  subtitle: 'Frontend | Autodidata | Livreiro ',
+  copyright: '© Alguns direitos reservados. usando Gatsby',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -24,7 +24,7 @@ module.exports = {
   author: {
     name: 'Théo Oliveira',
     photo: '/photo.png',
-    bio: 'Frontend | autodidata feroz',
+    bio: 'Frontend | Autodidata | Livreiro ',
     contacts: {
       email: 'theophilo.oliveira@gmail.com',
       facebook: '',
