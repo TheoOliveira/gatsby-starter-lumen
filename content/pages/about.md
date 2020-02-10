@@ -11,6 +11,7 @@ Habilidades:
 - Wordpress
 - Proficiência em Linux
 - Webpack
+ 
  Atualmente trabalhando com Javascript na C3C Software como Frontend Developer. 
 ### Contato
 
