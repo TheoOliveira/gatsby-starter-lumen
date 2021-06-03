@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://theooliveira.tech',
   pathPrefix: '/',
   title: 'Blog do Théo Oliveira',
-  subtitle: 'Frontend | Autodidata | Livreiro ',
+  subtitle: 'Frontend |ReactJS | WordPress | Bacon | Livros ',
   copyright: '© Alguns direitos reservados. usando Gatsby',
   disqusShortname: '',
   postsPerPage: 4,
@@ -24,7 +24,7 @@ module.exports = {
   author: {
     name: 'Théo Oliveira',
     photo: '/photo.png',
-    bio: 'Frontend | Autodidata | Livreiro ',
+    bio: 'Frontend |ReactJS | WordPress | Bacon | Livros ',
     contacts: {
       email: 'theophilo.oliveira@gmail.com',
       facebook: '',
