@@ -1,18 +1,43 @@
 ---
-title: "Sobre mim"
-template: "page"
-socialImage: "/media/image-4.jpg"
+template: page
+title: Sobre mim
+slug: sobre-mim
+draft: true
 ---
-Self-taught Frontend Developer com background de 10 anos de experiencia como professor de Inglês. Formato em Letras.
-Habilidades:
-- HTML5, CSS3 (SaSS)
-- Javascript ES6 (Vanilla e ReactJS)
-- Boostrap 3.4
-- Wordpress
-- Proficiência em Linux
-- Webpack
- 
- Atualmente trabalhando com Javascript na C3C Software como Frontend Developer. 
+Frontend Dev com 2 anos de experiência e fluente em inglês. Experiência em React, VueJS, NextJS, Wordpress com conhecimentos em Git, Linux e Salesforce. Atualmente trabalhando como Freelancer em ReactJS, WordPress e NextJS
+
+
+
+HTML ⭐⭐⭐⭐
+
+CSS ⭐⭐⭐⭐
+
+ReactJS ⭐⭐
+
+VueJS ⭐⭐
+
+NextJS ⭐⭐
+
+Javascript ⭐⭐⭐
+
+MongoDB ⭐⭐
+
+Git ⭐⭐⭐
+
+Gulp ⭐⭐
+
+Bootstrap ⭐⭐⭐
+
+WordPress ⭐⭐⭐
+
+Nodejs ⭐⭐
+
+PHP ⭐⭐
+
+Linux ⭐⭐⭐⭐⭐
+
+SEO ⭐⭐⭐⭐
+
 ### Contato
 
-[theophilo.oliveira@gmail.com](mailto:theophilo.oliveira@gmail.com)
+<mailto:theophilo.oliveira@gmail.com>
